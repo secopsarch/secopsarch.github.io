@@ -1,0 +1,36 @@
+/* Initial hidden states — GSAP reveals on home page */
+.home-info .hero-title-char {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(1.2em);
+}
+
+.home-info .hero-content-line {
+  opacity: 0;
+  transform: translateY(1em);
+}
+
+.home-info .entry-footer {
+  opacity: 0;
+  transform: scale(0.92);
+}
+
+.home-info .magnetic-target {
+  display: inline-block;
+  transition: transform 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.post-entry.anim-ready {
+  opacity: 0;
+  transform: translateY(2rem);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-info .hero-title-char,
+  .home-info .hero-content-line,
+  .home-info .entry-footer,
+  .post-entry.anim-ready {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
