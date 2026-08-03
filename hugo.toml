@@ -1,0 +1,91 @@
+baseURL = 'https://arunkube.org/'
+languageCode = 'en-us'
+title = "Arun Bharathwaj's - Cloud Native Portfolio!"
+
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+
+[params]
+
+env = "production"
+
+title = "ArunKube"
+
+description = "Cloud Native Engineering Portfolio - Kubernetes, OpenShift, Ansible, Azure, Terraform"
+
+author = "secopsarch"
+
+defaultTheme = "auto"
+
+ShowReadingTime = true
+ShowShareButtons = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+
+
+[params.homeInfoParams]
+
+Title = "Platform Engineer 🚀"
+
+Content = """
+Cloud Native Engineering Portfolio
+
+Kubernetes | OpenShift | Ansible | Azure | Terraform | GitHub Actions
+
+Building platforms, automation and infrastructure solutions.
+"""
+
+
+[[params.socialIcons]]
+
+name = "github"
+
+url = "https://github.com/secopsarch"
+
+
+[[menu.main]]
+
+name = "About"
+
+url = "/about/"
+
+weight = 10
+
+
+[[menu.main]]
+
+name = "Projects"
+
+url = "/projects/"
+
+weight = 20
+
+
+[[menu.main]]
+
+name = "Resume"
+
+url = "/resume/"
+
+weight = 30
+
+
+[[menu.main]]
+
+name = "Certifications"
+
+url = "/certifications/"
+
+weight = 40
+
+
+[[menu.main]]
+
+name = "Blog"
+
+url = "/posts/"
+
+weight = 50
