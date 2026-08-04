@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Arun Bharathwaj&#39;s - Cloud Native Portfolio!</title>
+    <title>Arun Bharathwaj | Platform Modernization Architect</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Arun Bharathwaj&#39;s - Cloud Native Portfolio!</description>
+    <description>Recent content on Arun Bharathwaj | Platform Modernization Architect</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -13,21 +13,107 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;about-arun-bharathwaj&#34;&gt;About Arun Bharathwaj&lt;/h1&gt;
-&lt;p&gt;Cloud Native Engineer focused on designing,
-automating and operating modern platforms.&lt;/p&gt;
-&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
+&lt;p&gt;I am a Platform Modernization Architect focused on shaping cloud-native solutions that move organisations forward with clarity. My work brings together platform architecture, OpenShift and Kubernetes expertise, and infrastructure automation to make complex technology estates easier to evolve and operate.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My approach is architectural and pragmatic: create a clear path forward, make the secure path the easy path, and leave systems stronger than I found them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;focus-areas&#34;&gt;Focus areas&lt;/h2&gt;
+&lt;div class=&#34;skill-grid&#34;&gt;
+  &lt;div&gt;&lt;strong&gt;Platform modernization&lt;/strong&gt;&lt;span&gt;Deliberate, scalable paths from established estates to cloud-native operations.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;Cloud-native solution design&lt;/strong&gt;&lt;span&gt;Platform foundations that balance developer experience, reliability and governance.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;OpenShift architecture&lt;/strong&gt;&lt;span&gt;Thoughtful cluster, workload, networking and operational design.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;Infrastructure automation&lt;/strong&gt;&lt;span&gt;Terraform, Ansible and delivery workflows that make change repeatable.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;Programme delivery&lt;/strong&gt;&lt;span&gt;Technical planning, prioritisation and execution across complex initiatives.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;Operational resilience&lt;/strong&gt;&lt;span&gt;Observability, security-minded design and dependable day-two operations.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;how-i-work&#34;&gt;How I work&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Kubernetes&lt;/li&gt;
-&lt;li&gt;OpenShift&lt;/li&gt;
-&lt;li&gt;KubeVirt&lt;/li&gt;
-&lt;li&gt;Ansible Automation&lt;/li&gt;
-&lt;li&gt;Azure Cloud&lt;/li&gt;
-&lt;li&gt;Terraform&lt;/li&gt;
-&lt;li&gt;GitHub Actions&lt;/li&gt;
-&lt;li&gt;Platform Engineering&lt;/li&gt;
+&lt;li&gt;I translate technical complexity into decisions that stakeholders and delivery teams can act on.&lt;/li&gt;
+&lt;li&gt;I bring structured problem-solving, clear communication and calm collaboration to platform change.&lt;/li&gt;
+&lt;li&gt;I align architecture, delivery priorities and operational realities so that progress is sustainable.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;current-focus&#34;&gt;Current Focus&lt;/h2&gt;
-&lt;p&gt;Building secure, scalable and automated cloud platforms.&lt;/p&gt;</description>
+&lt;h2 id=&#34;current-direction&#34;&gt;Current direction&lt;/h2&gt;
+&lt;p&gt;I continue to deepen my practice across cloud-native solutions design, OpenShift architecture, Azure, Terraform, Ansible and infrastructure automation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automation and delivery workflows</title>
+      <link>http://localhost:1313/projects/automation-delivery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/automation-delivery/</guid>
+      <description>Ansible and GitHub Actions patterns for repeatable platform operations.</description>
+    </item>
+    <item>
+      <title>Azure infrastructure as code</title>
+      <link>http://localhost:1313/projects/terraform-azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/terraform-azure/</guid>
+      <description>Composable Terraform patterns for reviewable Azure foundations.</description>
+    </item>
+    <item>
+      <title>Certifications</title>
+      <link>http://localhost:1313/certifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/certifications/</guid>
+      <description>&lt;h1 id=&#34;certifications--learning&#34;&gt;Certifications &amp;amp; learning&lt;/h1&gt;
+&lt;p&gt;This page is reserved for verified credentials and continuing professional learning.&lt;/p&gt;
+&lt;h2 id=&#34;core-learning-paths&#34;&gt;Core learning paths&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kubernetes and cloud-native platform operations&lt;/li&gt;
+&lt;li&gt;Red Hat OpenShift and automation practices&lt;/li&gt;
+&lt;li&gt;Azure infrastructure and identity foundations&lt;/li&gt;
+&lt;li&gt;Terraform and infrastructure-as-code design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;portfolio-callout&#34;&gt;
+Certification details and verification links will be added here as they are published.
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;lets-connect&#34;&gt;Let’s connect&lt;/h1&gt;
+&lt;p&gt;I welcome conversations about platform engineering, cloud-native infrastructure, automation and reliable delivery practices.&lt;/p&gt;
+&lt;h2 id=&#34;reach-me&#34;&gt;Reach me&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:aarunbharathwaj@gmail.com&#34;&gt;aarunbharathwaj@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/secopsarch&#34;&gt;github.com/secopsarch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;portfolio-callout&#34;&gt;
+The best first note is a short description of the platform, automation or cloud challenge you are working through.
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes platform foundations</title>
+      <link>http://localhost:1313/projects/kubernetes-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kubernetes-platform/</guid>
+      <description>A reference approach to cluster lifecycle, secure workloads and day-two operations.</description>
+    </item>
+    <item>
+      <title>OpenShift operations playbook</title>
+      <link>http://localhost:1313/projects/openshift-operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/openshift-operations/</guid>
+      <description>Operational patterns for a supported, observable OpenShift platform.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;resume&#34;&gt;Resume&lt;/h1&gt;
+&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;
+&lt;p&gt;Platform Modernization Architect specialising in cloud-native solutions design, OpenShift architecture and infrastructure automation. I work where technical strategy, reliable platforms and well-managed delivery meet.&lt;/p&gt;
+&lt;h2 id=&#34;core-capabilities&#34;&gt;Core capabilities&lt;/h2&gt;
+&lt;div class=&#34;skill-grid&#34;&gt;
+  &lt;div&gt;&lt;strong&gt;Platform modernization&lt;/strong&gt;&lt;span&gt;Architecture roadmaps for scalable, cloud-native operating models.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;OpenShift &amp; Kubernetes&lt;/strong&gt;&lt;span&gt;Platform design, cluster operations, networking, storage and troubleshooting.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;Infrastructure automation&lt;/strong&gt;&lt;span&gt;Terraform, Ansible and repeatable operational workflows.&lt;/span&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;strong&gt;Project delivery&lt;/strong&gt;&lt;span&gt;Planning, stakeholder alignment and clear technical communication.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;technology-toolkit&#34;&gt;Technology toolkit&lt;/h2&gt;
+&lt;p&gt;Kubernetes · OpenShift · KubeVirt · Ansible · Azure · Terraform · GitHub Actions · Git · Linux · Containers&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

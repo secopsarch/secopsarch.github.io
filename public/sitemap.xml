@@ -4,12 +4,46 @@
   <url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/ansible/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/automation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/automation-delivery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/azure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/terraform-azure/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/certifications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/github-actions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/infrastructure-as-code/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/kubernetes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/kubernetes-platform/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/openshift/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/openshift-operations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/operations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/platform-engineering/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/terraform/</loc>
   </url>
 </urlset>
