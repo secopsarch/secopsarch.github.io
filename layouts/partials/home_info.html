@@ -1,0 +1,44 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info hero-block">
+    <div class="hero-shell">
+        <div class="hero-copy">
+            <span class="hero-eyebrow">Cloud-native transformation</span>
+            <h1 class="hero-title">{{ .Title | markdownify }}</h1>
+            <p class="hero-lead">Architecting modern platforms, OpenShift ecosystems and automation that turn infrastructure into an engine for delivery.</p>
+            <div class="hero-subtitle md-content">
+                {{ $opts := dict "display" "block" }}
+                {{ .Content | $.Page.RenderString $opts }}
+            </div>
+            <div class="hero-actions">
+                <a class="hero-button hero-button-primary" href="/projects/">View projects</a>
+                <a class="hero-button hero-button-secondary" href="/resume/">See resume</a>
+            </div>
+            <div class="hero-stats">
+                <div class="hero-stat"><strong>Modernization</strong><span>Clear paths from legacy infrastructure to cloud-native platforms.</span></div>
+                <div class="hero-stat"><strong>Architecture</strong><span>OpenShift, Kubernetes, Azure and resilient platform foundations.</span></div>
+                <div class="hero-stat"><strong>Delivery</strong><span>Automation, alignment and dependable execution from plan to operation.</span></div>
+            </div>
+            <div class="hero-footnote">Platform modernization · Cloud-native solutions design · OpenShift architecture · Infrastructure automation</div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+            <div class="hero-visual-shell">
+                <div class="hero-visual-glow"></div>
+                <div class="hero-visual-card">
+                    <div class="hero-dashboard">
+                        <div class="hero-dashboard-header"></div>
+                        <div class="hero-dashboard-grid">
+                            <div class="hero-dashboard-cell cell-small"></div>
+                            <div class="hero-dashboard-cell cell-large"></div>
+                            <div class="hero-dashboard-cell cell-medium"></div>
+                            <div class="hero-dashboard-cell cell-small"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
